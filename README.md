@@ -19,6 +19,15 @@ Full Stack Developer based in **Argentina**. I build modern web applications end
 - **Backend**: Node.js (REST APIs)
 - **Other**: Three.js, CI/CD, cloud & scheduled jobs
 
+## Work tech (GottertDev)
+
+Across internal applications and services, the main technologies I work with include:
+
+- **Languages**: JavaScript, TypeScript, Python, SQL (PostgreSQL / PLpgSQL), Shell
+- **Web**: React, Next.js
+- **APIs & services**: REST APIs, Node.js services, scheduled jobs
+- **Automation / scripting**: cron-style services, scripts and tooling for setup & ops
+
 ## Featured projects
 
 - **Portfolio (Next.js)** — `https://porfilio-rmb.vercel.app`
